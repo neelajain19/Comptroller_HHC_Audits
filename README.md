@@ -2,7 +2,7 @@
 
 ## Project Background:
 
-As part of my investigative health class, I am looking into a troubling pattern of medical biopsies conducted on schizophrenia patients at NYC Health & Hospital South Brooklyn Health (formerly known as Coney Island Hospital.) My reporting partner and I are looking into whether the biopsies are part of a medical research program or being conducted on an improper basis.  One of our sources, an emergency psychiatrist wondered if the procedures were coded erroneously as a way to take advantage of Medicaid reimbursement.  (The majority of patients on whom the biopsies were conducted on were insured via Medicaid.) My conversation with her prompted me to begin looking further into improper billing purposes at NYC Health & Hospitals.
+As part of my investigative health class, I am looking into a troubling pattern of medical biopsies conducted on schizophrenia patients at NYC Health & Hospital South Brooklyn Health (formerly known as Coney Island Hospital.) My reporting partner and I are looking into whether the biopsies are part of a medical research program or being conducted on an improper basis.  One of our sources, an emergency psychiatrist wondered if the procedures were coded erroneously as a way to take advantage of Medicaid reimbursement.  (The majority of patients on whom the biopsies were conducted on were insured via Medicaid.) My conversation with her prompted me to begin looking further into improper billing purposes at the NYC Health & Hospitals Corporation (HHC).
 
 ## Scrape Process:
 
