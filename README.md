@@ -6,7 +6,7 @@ As part of my investigative health class, I am looking into a troubling pattern 
 
 ## Scrape Process:
 
-I identified several [NYC Health & Hospital audit reports](https://comptroller.nyc.gov/reports/?fwp_agency=health-and-hospitals-corporation) completed by the New York City Comptroller’s Office and 
+I identified several [NYC Health & Hospital audit reports](https://comptroller.nyc.gov/reports/?fwp_agency=health-and-hospitals-corporation) completed by the Office of the New York City Comptroller and 
 [scraped](https://github.com/neelajain19/Comptroller_HHC_Audits/blob/21c3732478f6c58d154cb7e5bf570c2cd5de393d/01%20-%20Scraping.ipynb) the 
 [PDFs](https://github.com/neelajain19/Comptroller_HHC_Audits/tree/71ef59bb8c90058f78f3e35a3b0a2d426f9d0b9a/Comptroller_Reports).
 
