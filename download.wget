@@ -1,0 +1,964 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<title>
+  Letter to Dr. Mitchell Katz regarding H+H spending on agency and travel nurses - Office of the New York City Comptroller
+Brad Lander</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<meta property="og:type" content="article"/>
+<meta name="twitter:site" content="@NYCComptroller" />
+<meta name="twitter:title" content="Letter to Dr. Mitchell Katz regarding H+H spending on agency and travel nurses" />
+<meta name="twitter:description" content="Dear Dr. Katz: Thank you for your steadfast leadership of NYC Health + Hospitals (H+H), New York City’s flagship safety net health service in recent years, shepherding it through a fiscal crisis, the Covid-19 pandemic, and the ongoing challenges H+H has assisted mightily with during the city’s current all-hands effort..." />
+
+<meta name="description" content="Dear Dr. Katz: Thank you for your steadfast leadership of NYC Health + Hospitals (H+H), New York City’s flagship safety net health service in recent years, shepherding it through a fiscal crisis, the Covid-19 pandemic, and the ongoing challenges H+H has assisted mightily with during the city’s current all-hands effort...">
+<meta property="og:description" content="Dear Dr. Katz: Thank you for your steadfast leadership of NYC Health + Hospitals (H+H), New York City’s flagship safety net health service in recent years, shepherding it through a fiscal crisis, the Covid-19 pandemic, and the ongoing challenges H+H has assisted mightily with during the city’s current all-hands effort..."/>
+<meta property="og:title" content="Letter to Dr. Mitchell Katz regarding H+H spending on agency and travel nurses"/>
+<meta property="og:site_name" content="Office of the New York City Comptroller Brad Lander"/>
+<meta property="og:url" content="https://comptroller.nyc.gov/reports/letter-to-dr-mitchell-katz-regarding-hh-spending-on-agency-and-travel-nurses/"/>
+
+<meta property="og:image" content="https://comptroller.nyc.gov/wp-content/uploads/2023/06/Letter-2.png" />
+<meta name="twitter:image" content="https://comptroller.nyc.gov/wp-content/uploads/2023/06/Letter-2.png?391867" />
+
+
+<link href="//www.google-analytics.com" rel="dns-prefetch">
+<link href="https://comptroller.nyc.gov/wp-content/themes/comptroller_theme_2021/images/icons/favicon.ico?ver=1" rel="shortcut icon">
+<link href="https://comptroller.nyc.gov/wp-content/themes/comptroller_theme_2021/images/icons/touch.png?ver=1" rel="apple-touch-icon-precomposed">
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/comptroller.nyc.gov\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.3"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://comptroller.nyc.gov/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='vfb-pro-css' href='https://comptroller.nyc.gov/wp-content/plugins/vfb-pro/public/assets/css/vfb-style.min.css?ver=2019.05.10' media='all' />
+<link rel='stylesheet' id='googlefonts-css' href='https://fonts.googleapis.com/css?family=Montserrat%3A700%7COpen+Sans%3A400%2C700&#038;ver=6.8.3' media='all' />
+<link rel='stylesheet' id='icofont-css' href='https://comptroller.nyc.gov/wp-content/themes/comptroller_theme_2021/css/icofont.min.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='fontawesome-css' href='https://comptroller.nyc.gov/wp-content/themes/comptroller_theme_2021/assets/fontawesome/css/fontawesome.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='brands-css' href='https://comptroller.nyc.gov/wp-content/themes/comptroller_theme_2021/assets/fontawesome/css/brands.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='solid-css' href='https://comptroller.nyc.gov/wp-content/themes/comptroller_theme_2021/assets/fontawesome/css/solid.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='bootstrapcss-css' href='https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css?ver=6.8.3' media='all' />
+<link rel='stylesheet' id='html5blank-css' href='https://comptroller.nyc.gov/wp-content/themes/comptroller_theme_2021/style.css?ver=2.0' media='all' />
+<link rel='stylesheet' id='customcolors-css' href='https://comptroller.nyc.gov/wp-content/themes/comptroller_theme_2021/css/customColor.css?ver=1647888886' media='all' />
+<link rel='stylesheet' id='custom-css' href='https://comptroller.nyc.gov/wp-content/themes/comptroller_theme_2021/css/custom2021.css?ver=1729797795' media='all' />
+<style id='vcv-globalElementsCss-inline-css' type='text/css'>
+.vce-faq-toggle-title-text{color:#002563;font-size:18px;font-weight:800;position:relative}.vce-button--style-basic--border-square,a.vce-button--style-basic--border-square,button.vce-button--style-basic--border-square{background-color:#0d6efd!important;border-color:#0d6efd!important;border:1px solid transparent;border-radius:.25rem!important;color:#fff;font-family:Montserrat,sans-serif!important;font-size:1rem!important;font-weight:700!important;padding:.375rem .75rem;text-align:center;vertical-align:middle}
+</style>
+<script type="text/javascript" src="https://comptroller.nyc.gov/wp-content/themes/comptroller_theme_2021/js/lib/conditionizr-4.3.0.min.js?ver=4.3.0" id="conditionizr-js"></script>
+<script type="text/javascript" src="https://comptroller.nyc.gov/wp-content/themes/comptroller_theme_2021/js/lib/modernizr-2.7.1.min.js?ver=2.7.1" id="modernizr-js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js?ver=1" id="jqueryjs-js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js?ver=1" id="bootstrapjs-js"></script>
+<link rel="https://api.w.org/" href="https://comptroller.nyc.gov/wp-json/" /><link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://comptroller.nyc.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcomptroller.nyc.gov%2Freports%2Fletter-to-dr-mitchell-katz-regarding-hh-spending-on-agency-and-travel-nurses%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://comptroller.nyc.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcomptroller.nyc.gov%2Freports%2Fletter-to-dr-mitchell-katz-regarding-hh-spending-on-agency-and-travel-nurses%2F&#038;format=xml" />
+<noscript><style>.vce-row-container .vcv-lozad {display: none}</style></noscript><meta name="generator" content="Powered by Visual Composer Website Builder - fast and easy-to-use drag and drop visual editor for WordPress."/>		<style type="text/css" id="wp-custom-css">
+			.post-421859 .wp-post-image {
+display: none;
+}
+
+.bg-white.table-success,
+body.single-report .entry_content .table tr.bg-white.table-success td {
+    border-top: 1px solid #ddd !important;
+    --bs-table-bg: #ffffff !important;
+	--bs-table-accent-bg: #ffffff !important;
+}
+
+.bg-gray.table-success,
+body.single-report .entry_content .table tr.bg-gray.table-success td {
+    border-top: 1px solid #ddd !important;
+    --bs-table-bg: #eee !important;	
+	--bs-table-accent-bg: #eee !important;
+}
+
+div.entry_content th {vertical-align: bottom !important}
+
+div.entry_content td {vertical-align: middle !important}
+/*
+.vce-row-content h2{
+	margin-top: 4rem;
+}
+.vce-row-content h3{
+	margin-top: 2rem;
+}*/
+
+#el-1515de70 > a:hover,
+#el-1515de70 > button:hover{
+	background-color:#1d64c5 !important;
+}
+#el-1515de70 > a > span{	
+	font-weight: 700 !important;
+}
+
+#el-1515de70 > a,
+#el-1515de70 > button{
+	background-color:#0d6efd !important;
+	color:#fff;
+	font-weight: 700 !important;
+}
+
+#el-1515de70 > button,
+a.vce-button--style-basic.vce-button.vce-button--style-basic--color-b-29-100-197--fff, a.vce-button--style-basic.vce-button.vce-button--style-basic--color-b-29-100-197--fff:not(:hover), button.vce-button--style-basic.vce-button.vce-button--style-basic--color-b-29-100-197--fff, button.vce-button--style-basic.vce-button.vce-button--style-basic--color-b-29-100-197--fff:not(:hover) {
+    background-color: #0d6efd ;
+    border: 1px solid transparent;
+    /*padding: .5rem 1rem;*/
+    border-radius: .3rem;
+	font-family: 'Montserrat', sans-serif !important;
+    font-weight: 700 !important;
+}		</style>
+		<script>
+// conditionizr.com 
+// configure environment tests
+conditionizr.config({
+assets: 'https://comptroller.nyc.gov/wp-content/themes/comptroller_theme_2021',
+tests: {}
+});
+</script>
+
+<!-- Google tag (gtag.js) --> 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BLHED8K050"></script> 
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BLHED8K050');
+</script>
+
+<style>
+@media (min-width: 1200px) {
+.contactOffice {
+background-image:url(https://comptroller.nyc.gov/wp-content/uploads/2024/04/CBL_Headshot_Nav.png) !important;
+}
+}
+@media (min-width: 1200px) {
+.text-2columns {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+    -webkit-column-gap: 3em;
+    -moz-column-gap: 3em;
+    column-gap: 3em;
+}
+</style>
+</head>
+
+	<body class="wp-singular report-template-default single single-report postid-391867 wp-theme-comptroller_theme_2021 vcwb letter-to-dr-mitchell-katz-regarding-hh-spending-on-agency-and-travel-nurses">
+		<div class="alert alert-primary m-0 p-2 text-center rounded-0 border-0 dontUseIE" role="alert">
+	  <div class="container">Microsoft Internet Explorer is no longer a supported browser on NYC Comptroller’s website.<br>
+		Please use Microsoft Edge, Google Chrome, Apple Safari or Mozilla Firefox.</div>
+	</div>
+	<header id="header" class="mb-5" role="banner">
+	  <div id="navWrapper" class="container">
+		<div id="miniNav" class="pt-3 text-end">
+		  <ul class="list-inline">
+			<li class="list-inline-item">
+			  <div id="word-container">
+				<div class="word w1">Español</div>
+				<div class="word w2">繁體中文</div>
+				<div class="word w3">简体中文</div>
+				<div class="word w4">Русский</div>
+				<div class="word w5">한 국 어</div>
+				<div class="word w6">Kreyòl ayisyen</div>
+				<div class="word w7">Italiano</div>
+			  </div>
+			  <i class="icofont-caret-right text-white"></i> </li>
+			<li class="list-inline-item" id="languageTab"> <div class="gtranslate_wrapper" id="gt-wrapper-20030115"></div> </li>
+			<li class="list-inline-item d-none d-sm-inline-block"> <a href="https://comptroller.nyc.gov/newsletters" class="btn btn-link text-white">Join Mailing List</a> </li>
+			<li class="list-inline-item d-none d-md-inline-block">
+			  <ul class="list-inline">
+			 <li class="list-inline-item"></li>
+
+                       <li class="list-inline-item"> <a href="https://bsky.app/profile/nyccomptroller.bsky.social" rel="noopener" target="_blank" title="Bluesky"> <i class="fa-brands fa-bluesky"></i> </a> </li>
+            		
+			               <li class="list-inline-item"> <a href="https://www.facebook.com/ComptrollerNYC" rel="noopener" target="_blank" title="Facebook"> <i class="fa-brands fa-facebook-f"></i> </a> </li>
+            			
+			             <li class="list-inline-item"> <a href="https://www.instagram.com/NYCComptroller/" rel="noopener" target="_blank" title="Instagram"> <i class="fa-brands fa-instagram"></i> </a> </li>
+            
+                        <li class="list-inline-item"> <a href="https://www.threads.net/@nyccomptroller" rel="noopener" target="_blank" title="Threads"> <i class="fa-brands fa-threads"></i> </a> </li>
+                    
+                        <li class="list-inline-item"> <a href="https://www.youtube.com/c/nyccomptroller" rel="noopener" target="_blank" title="YouTube"> <i class="fa-brands fa-youtube"></i> </a> </li>
+                                    <li class="list-inline-item"> <a href="https://www.flickr.com/photos/nyccomptroller/" rel="noopener" target="_blank" title="Flickr"> <i class="fa-brands fa-flickr"></i> </a> </li>
+                      </ul>
+        </li>
+      </ul>
+    </div>
+    <nav class="navbar navbar-expand-lg navbar-light">
+      <div class="container g-0"> <a class="navbar-brand" title="New York City Comptroller Brad Lander" href="https://comptroller.nyc.gov/"> <img src="https://comptroller.nyc.gov/wp-content/uploads/2022/01/Brad_Lander_Logo_white_sm.png" alt="New York City Comptroller Brad Lander"/> </a>
+        <button class="navbar-toggler border-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation"> <i class="icofont-navigation-menu text-white"></i> </button>
+        <div class="collapse navbar-collapse" id="navbarContent">
+          <ul class="navbar-nav float-lg-end">
+            <li class="nav-item dropdown d-none d-lg-block"> <a class="nav-link dropdown-toggle displayFont" href="https://comptroller.nyc.gov/about/" id="aboutDropdown" role="button" aria-expanded="false">About</a>
+              <div class="dropdown-menu shadow p-0 ps-lg-3 overflow-hidden" aria-labelledby="aboutDropdown">
+                <ul class="row list-unstyled">
+                  <li id="menu-item-81777" class="border-end col p-3 menu-item menu-item-type-post_type menu-item-object-page"> <a href="https://comptroller.nyc.gov/about/leadership-team/" class="h5 mb-3 text-decoration-none">Leadership Team</a>
+                    <p class="d-none d-md-block m-0">Learn about the Comptroller’s senior staff members</p>
+                  </li>
+                  <li id="menu-item-81779" class="border-end col p-3 menu-item menu-item-type-post_type menu-item-object-page"> <a href="https://comptroller.nyc.gov/about/contact-our-office/" class="h5 mb-3 text-decoration-none">Contact Our Office</a>
+                    <p class="d-none d-md-block m-0">No matter what your question is, the Office is here to help</p>
+                  </li>
+                  <li id="menu-item-81775" class="border-end col p-3 menu-item menu-item-type-post_type menu-item-object-page"> <a href="https://comptroller.nyc.gov/about/duties-of-the-comptroller/" class="h5 mb-3 text-decoration-none">Duties Of The Comptroller</a>
+                    <p class="d-none d-md-block m-0">View Powers and Duties under New York State Law</p>
+                  </li>
+                  <li id="menu-item-81776" class="border-end col p-3 menu-item menu-item-type-post_type menu-item-object-page"> <a href="https://comptroller.nyc.gov/about/overview-of-the-office/" class="h5 mb-3 text-decoration-none">Mission Statement and Office Overview</a>
+                    <p class="d-none d-md-block m-0">Learn about each of the different bureaus’ functions</p>
+                  </li>
+                  <li id="menu-item-81778" class="border-end col p-3 col-md-4 contactOffice menu-item menu-item-type-post_type menu-item-object-page"> <a href="https://comptroller.nyc.gov/about/about-brad-lander/" class="h5 mb-3 text-decoration-none">About
+                    Brad Lander                    </a>
+                    <p class="d-none d-md-block m-0">The Comptroller’s biography and his policies</p>
+                  </li>
+                </ul>
+              </div>
+            </li>
+            <li class="nav-item dropdown d-none d-lg-block"> <a class="nav-link dropdown-toggle displayFont" href="https://comptroller.nyc.gov/services/" id="servicesDropdown" role="button" aria-expanded="false">Services</a>
+              <div class="dropdown-menu shadow py-0 services_menu" aria-labelledby="servicesDropdown">
+                <div class="row ps-3 g-0">
+                  <div class="col-3 col border-end p-3">
+                    <p class="h4 fs-5"><a class="text-decoration-none blue-800-text" href="https://comptroller.nyc.gov/services/for-the-public/">Services</a></p>
+                    <ul id="menu-services-menu" class="menu"><li id="menu-item-440341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440341"><a href="https://comptroller.nyc.gov/services/for-the-public/audit/">Audit</a></li>
+<li id="menu-item-440343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440343"><a href="https://comptroller.nyc.gov/services/for-the-public/certificate-of-residence/">Certificate of Residence</a></li>
+<li id="menu-item-440345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440345"><a href="https://comptroller.nyc.gov/services/for-the-public/city-retirees-services/">City Retirees’ Services</a></li>
+<li id="menu-item-440347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440347"><a href="https://comptroller.nyc.gov/services/for-the-public/claims/file-a-claim/">File a Claim</a></li>
+<li id="menu-item-440349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440349"><a href="https://comptroller.nyc.gov/services/for-the-public/freedom-of-information-law-foil-requests/">FOIL Requests</a></li>
+<li id="menu-item-440351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440351"><a href="https://comptroller.nyc.gov/services/for-the-public/judgment-and-claim-settlement-payment-inquiry/">Judgment and Claim Settlement Payment Inquiry</a></li>
+<li id="menu-item-440353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440353"><a href="https://comptroller.nyc.gov/services/for-the-public/meeting-disclosure-reporting/">Meeting Disclosure Reporting</a></li>
+<li id="menu-item-440355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440355"><a href="https://comptroller.nyc.gov/services/for-the-public/report-a-language-access-problem/">Report a Language Access Problem</a></li>
+<li id="menu-item-440359" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440359"><a href="https://comptroller.nyc.gov/services/for-the-public/workers-rights/wage-schedules/">Wage Schedules</a></li>
+<li id="menu-item-440363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440363"><a href="https://comptroller.nyc.gov/services/for-the-public/workers-compensation/">Workers Compensation</a></li>
+</ul>                      
+                  </div>
+                  <div class="col-3 col border-end p-3">
+                    <p class="h4 fs-5"><span class="text-decoration-none blue-800-text">Resources / Topics</span></p>
+                    <ul id="menu-resources" class="menu"><li id="menu-item-440365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440365"><a href="https://comptroller.nyc.gov/services/for-the-public/accessibility/">Accessibility</a></li>
+<li id="menu-item-440369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440369"><a href="https://comptroller.nyc.gov/services/for-the-public/confronting-the-climate-crisis/">Confronting the Climate Crisis</a></li>
+<li id="menu-item-485229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-485229"><a href="https://comptroller.nyc.gov/services/for-the-public/employer-violations-dashboard/employer-wall-of-shame/">Employer Wall of Shame</a></li>
+<li id="menu-item-440371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440371"><a href="https://comptroller.nyc.gov/services/for-the-public/equity/">Equity</a></li>
+<li id="menu-item-451445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-451445"><a href="https://comptroller.nyc.gov/services/for-the-public/federal-funding-support-for-human-service-agencies/">Federal Funding Support</a></li>
+<li id="menu-item-440847" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440847"><a href="https://comptroller.nyc.gov/services/for-the-public/immigrant-workers-resource-guide/">Immigrant Workers Guide</a></li>
+<li id="menu-item-440377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440377"><a href="https://comptroller.nyc.gov/services/for-the-public/investing-in-nycs-infrastructure/">Infrastructure</a></li>
+<li id="menu-item-440379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440379"><a href="https://comptroller.nyc.gov/services/for-the-public/lgbtq-guide/">LGBTQIA+ Guide</a></li>
+<li id="menu-item-461857" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-461857"><a href="https://comptroller.nyc.gov/services/for-the-public/protecting-nyc/">Protecting NYC</a></li>
+<li id="menu-item-440375" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-440375"><a href="https://nycauditcommittee.org/">NYC Audit Committee</a></li>
+<li id="menu-item-440431" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-440431"><a href="https://comptroller.nyc.gov/services/for-the-public/workers-rights/">Workers&#8217; Rights</a></li>
+</ul>                  </div>
+                  <div class="col-3 col border-end p-3 m-0">
+                    <p class="h4 fs-5"><span class="text-decoration-none blue-800-text">Data Dashboards</span></p>
+                    <ul id="menu-dashboards" class="menu"><li id="menu-item-440385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440385"><a href="https://comptroller.nyc.gov/services/for-the-public/nyc-agency-staffing-dashboard/">Agency Staffing</a></li>
+<li id="menu-item-440387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440387"><a href="https://comptroller.nyc.gov/services/for-the-public/accounting-for-asylum-seeker-services/">Asylum Seeker Services</a></li>
+<li id="menu-item-440389" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-440389"><a href="https://www.checkbooknyc.com/">Checkbook NYC</a></li>
+<li id="menu-item-463097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-463097"><a href="https://comptroller.nyc.gov/services/for-the-public/claims-dashboard/">Claims Filed &#038; Settled</a></li>
+<li id="menu-item-440391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440391"><a href="https://comptroller.nyc.gov/services/for-the-public/confronting-the-climate-crisis/climatedashboard/">Climate</a></li>
+<li id="menu-item-440393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440393"><a href="https://comptroller.nyc.gov/services/for-the-public/creative-economy-dashboard/">Creative Economy</a></li>
+<li id="menu-item-440395" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440395"><a href="https://comptroller.nyc.gov/services/for-the-public/department-of-correction-doc/dashboard/">Department of Correction</a></li>
+<li id="menu-item-440397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440397"><a href="https://comptroller.nyc.gov/services/for-the-public/employer-violations-dashboard/">Employer Violations</a></li>
+<li id="menu-item-440399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440399"><a href="https://comptroller.nyc.gov/services/for-the-public/measuring-nyc-government-performance/">Government Performance</a></li>
+<li id="menu-item-440401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440401"><a href="https://comptroller.nyc.gov/services/for-the-public/charting-homelessness-in-nyc/">Homelessness</a></li>
+</ul>                  </div>
+                  <div id="nav-accordion" class="col">
+                    <div>
+                      <div class="accordion accordion-flush" id="accordions">
+                        <div class="accordion-item">
+                          <p class="accordion-header" id="For-Businesses">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                            <p class="h4 fs-5">
+                            <a class="text-decoration-none" href="https://comptroller.nyc.gov/services/for-businesses/">For Businesses</a>
+                            </p>
+                            </button>
+                          </p>
+                          <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="For-Businesses" data-bs-parent="#accordions">
+                            <div class="accordion-body">
+                              <ul class="list-unstyled icon_list">
+                                                                                                <li class="mb-1"><i class="icofont-thin-right"></i> <a class="text-decoration-none" href="https://comptroller.nyc.gov/services/for-businesses/doing-business-with-the-comptroller/">Doing Business with the Comptroller</a></li>
+                                                                <li class="mb-1"><i class="icofont-thin-right"></i> <a class="text-decoration-none" href="https://comptroller.nyc.gov/services/for-businesses/nyc-comptrollers-office-vendor-forms-w9-and-w8/">NYC Comptroller's Office Vendor Forms W-9 and W-8</a></li>
+                                                                <li class="mb-1"><i class="icofont-thin-right"></i> <a class="text-decoration-none" href="https://comptroller.nyc.gov/services/for-businesses/prequalified-cpa/">Prequalified CPA</a></li>
+                                                                <li class="mb-1"><i class="icofont-thin-right"></i> <a class="text-decoration-none" href="https://comptroller.nyc.gov/services/for-businesses/retainage-and-franchise/">Retainage and Franchise</a></li>
+                                                                <li class="mb-1"><i class="icofont-thin-right"></i> <a class="text-decoration-none" href="https://comptroller.nyc.gov/services/for-businesses/rfps-solicitations/">RFPs & Solicitations</a></li>
+                                                                <li class="mb-1"><i class="icofont-thin-right"></i> <a class="text-decoration-none" href="https://comptroller.nyc.gov/services/for-businesses/tax-reporting-guidelines/">Tax Reporting Guidelines</a></li>
+                                                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="accordion-item" id="For-City-Agencies">
+                          <p class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                            <p class="h4 fs-5">
+                            <a class="text-decoration-none" href="https://comptroller.nyc.gov/services/for-city-agencies/">For City Agencies</a>
+                            </p>
+                            </button>
+                          </p>
+                          <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="For-City-Agencies" data-bs-parent="#accordions">
+                            <div class="accordion-body">
+                              <ul class="list-unstyled icon_list">
+                                                                                                <li class="mb-1"><i class="icofont-thin-right"></i> <a class="text-decoration-none" href="https://comptroller.nyc.gov/services/for-city-agencies/comptrollers-directives-and-memoranda/">Comptroller's Directives and Memoranda</a></li>
+                                                                <li class="mb-1"><i class="icofont-thin-right"></i> <a class="text-decoration-none" href="https://comptroller.nyc.gov/services/for-city-agencies/contract-registration/">Contract Registration</a></li>
+                                                                <li class="mb-1"><i class="icofont-thin-right"></i> <a class="text-decoration-none" href="https://comptroller.nyc.gov/services/for-city-agencies/fiscal-year-end-closing-instructions/">Fiscal Year-End Closing Instructions 2025</a></li>
+                                                                <li class="mb-1"><i class="icofont-thin-right"></i> <a class="text-decoration-none" href="https://comptroller.nyc.gov/services/for-city-agencies/prequalified-cpa/">Prequalified CPA</a></li>
+                                                                <li class="mb-1"><i class="icofont-thin-right"></i> <a class="text-decoration-none" href="https://comptroller.nyc.gov/services/for-city-agencies/tax-reporting-guidelines/">Tax Reporting Guidelines</a></li>
+                                                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="accordion-item" id="Financial-Matters">
+                          <p class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                            <p class="h4 fs-5">
+                            <a class="text-decoration-none" href="https://comptroller.nyc.gov/services/financial-matters/">Financial Matters</a>
+                            </p>
+                            </button>
+                          </p>
+                          <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="Financial-Matters" data-bs-parent="#accordions">
+                            <div class="accordion-body">
+                              <ul class="list-unstyled icon_list">
+                                                                                                <li class="mb-1"><i class="icofont-thin-right"></i> <a class="text-decoration-none" href="https://comptroller.nyc.gov/services/financial-matters/annual-comprehensive-financial-reports-acfr/">Annual Comprehensive Financial Reports (ACFR)</a></li>
+                                                                <li class="mb-1"><i class="icofont-thin-right"></i> <a class="text-decoration-none" href="https://comptroller.nyc.gov/services/financial-matters/boardroom-accountability-project/">Boardroom Accountability Project</a></li>
+                                                                <li class="mb-1"><i class="icofont-thin-right"></i> <a class="text-decoration-none" href="https://comptroller.nyc.gov/services/financial-matters/checkbook-nyc/">Checkbook NYC <i class="icofont-external-link"></i></a></li>
+                                                                <li class="mb-1"><i class="icofont-thin-right"></i> <a class="text-decoration-none" href="https://comptroller.nyc.gov/services/financial-matters/economically-targeted-investments/">Economically Targeted Investments</a></li>
+                                                                <li class="mb-1"><i class="icofont-thin-right"></i> <a class="text-decoration-none" href="https://comptroller.nyc.gov/services/financial-matters/nyc-bonds/">NYC Bonds</a></li>
+                                                                <li class="mb-1"><i class="icofont-thin-right"></i> <a class="text-decoration-none" href="https://comptroller.nyc.gov/services/financial-matters/nyc-component-units-financial-statements/">NYC Component Units Financial Statements</a></li>
+                                                                <li class="mb-1"><i class="icofont-thin-right"></i> <a class="text-decoration-none" href="https://comptroller.nyc.gov/services/financial-matters/nyc-fiduciary-funds-financial-statements/">NYC Fiduciary Funds Financial Statements</a></li>
+                                                                <li class="mb-1"><i class="icofont-thin-right"></i> <a class="text-decoration-none" href="https://comptroller.nyc.gov/services/financial-matters/pension/">Pension / Investment Management</a></li>
+                                                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li class="nav-item dropdown d-none d-lg-block"> <a class="nav-link dropdown-toggle displayFont" href="https://comptroller.nyc.gov/reports/" id="reportsDropdown" role="button" aria-expanded="false">Reports</a>
+              <div class="dropdown-menu shadow py-0" aria-labelledby="reportsDropdown">
+                <ul class="nav nav-tabs justify-content-center h5" id="myTab" role="tablist">
+                  <li class="nav-item" role="presentation">
+                    <button class="nav-link blue-600-text active" id="Recent-tab" data-bs-toggle="tab" data-bs-target="#Recent" type="button" role="tab" aria-controls="Recent" aria-selected="true">Recent</button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button class="nav-link blue-600-text" id="Annual-tab" data-bs-toggle="tab" data-bs-target="#Annual" type="button" role="tab" aria-controls="Annual" aria-selected="false">Annual</button>
+                  </li>
+                  <li class="nav-item" role="presentation"> <a class="nav-link blue-600-text" href="/reports" >View All (
+                    2068                    )</a> </li>
+                </ul>
+                <div class="tab-content px-4">
+                  <div class="tab-pane fade show active" id="Recent" role="tabpanel" aria-labelledby="Recent-tab">
+                                        <ul class="list-unstyled row">
+                      <!--fwp-loop-->
+                                            <li class="col col-lg-2 p-3 pt-4 new"> <a href="https://comptroller.nyc.gov/reports/what-difference-does-a-generation-make/" class="text-decoration-none">
+                        <div class="img-thumbnail mb-2 overflow-hidden"> <img src="https://comptroller.nyc.gov/wp-content/uploads/2025/10/Pages-from-Generations-Spotlight-October-2025.pdf-300x388.jpg" class="img-fluid" alt="What Difference Does a Generation Make?"/> </div>
+                        <small class="text-muted d-block">Oct 17, 2025</small> What Difference Does a Generation Make? </a> </li>
+                                                                  <li class="col col-lg-2 p-3 pt-4 new"> <a href="https://comptroller.nyc.gov/reports/letter-to-starbucks-board-of-directors-from-comptroller-lander-trillium-asset-management-shareholder-association-for-research-and-education-share-and-pensions-investment-research-consultants-pir/" class="text-decoration-none">
+                        <div class="img-thumbnail mb-2 overflow-hidden"> <img src="https://comptroller.nyc.gov/wp-content/uploads/2025/10/Letter-to-Starbucks-Board-of-Directors-300x391.png" class="img-fluid" alt="Letter to Starbucks Board of Directors from Comptroller Lander, Trillium Asset Management, Shareholder Association for Research and Education (SHARE), and Pensions Investment Research Consultants (PIRC) on behalf of investor clients"/> </div>
+                        <small class="text-muted d-block">Oct 16, 2025</small> Letter to Starbucks Board of Directors from Comptroller Lander, Trillium... </a> </li>
+                                                                  <li class="col col-lg-2 p-3 pt-4 "> <a href="https://comptroller.nyc.gov/reports/follow-up-audit-on-the-equal-employment-practices-commissions-compliance-with-its-charter-mandate-to-audit-city-agencies/" class="text-decoration-none">
+                        <div class="img-thumbnail mb-2 overflow-hidden"> <img src="https://comptroller.nyc.gov/wp-content/uploads/documents/Pages-from-EEPC_MH25-056F-300x388.jpg" class="img-fluid" alt="Follow-Up Audit on the Equal Employment Practices Commission’s Compliance with Its Charter Mandate to Audit City Agencies"/> </div>
+                        <small class="text-muted d-block">Oct 2, 2025</small> Follow-Up Audit on the Equal Employment Practices Commission’s Compliance with... </a> </li>
+                                                                  <li class="col col-lg-2 p-3 pt-4 "> <a href="https://comptroller.nyc.gov/reports/new-york-city-cash-balance-projection-september-1-2025/" class="text-decoration-none">
+                        <div class="img-thumbnail mb-2 overflow-hidden"> <img src="https://comptroller.nyc.gov/wp-content/uploads/2025/10/Cash-Letter-September-2025-300x389.png" class="img-fluid" alt="New York City Cash Balance Projection September 1, 2025"/> </div>
+                        <small class="text-muted d-block">Oct 2, 2025</small> New York City Cash Balance Projection September 1, 2025 </a> </li>
+                                                                  <li class="col col-lg-2 p-3 pt-4 "> <a href="https://comptroller.nyc.gov/reports/new-york-city-quarterly-cash-report/" class="text-decoration-none">
+                        <div class="img-thumbnail mb-2 overflow-hidden"> <img src="https://comptroller.nyc.gov/wp-content/uploads/2022/03/QCR_cover-300x390.jpg" class="img-fluid" alt="New York City Quarterly Cash Report"/> </div>
+                        <small class="text-muted d-block">Oct 2, 2025</small> New York City Quarterly Cash Report </a> </li>
+                                                                  <li class="col col-lg-2 p-3 pt-4 "> <a href="https://comptroller.nyc.gov/reports/comptroller-lander-and-congressman-goldman-letter-to-dhs-sec-noem-re-reinstatement-of-ice-officer-and-misconduct-at-26-federal-plaza/" class="text-decoration-none">
+                        <div class="img-thumbnail mb-2 overflow-hidden"> <img src="https://comptroller.nyc.gov/wp-content/uploads/2025/09/lander-goldman-ltr-093025-300x390.png" class="img-fluid" alt="Comptroller Lander and Congressman Goldman Letter to DHS Sec. Noem re Reinstatement of ICE Officer and Misconduct at 26 Federal Plaza"/> </div>
+                        <small class="text-muted d-block">Sep 30, 2025</small> Comptroller Lander and Congressman Goldman Letter to DHS Sec. Noem... </a> </li>
+                                          </ul>
+                  </div>
+                  <div class="tab-pane fade" id="Annual" role="tabpanel" aria-labelledby="Annual-tab">
+                                        <ul class="list-unstyled row">
+                                                                  <li class="col-lg-2 p-3 pt-4 "> <a href="https://comptroller.nyc.gov/reports/annual-claims-report/" class="text-decoration-none">
+                        <div class="img-thumbnail mb-2 overflow-hidden"> <img src="https://comptroller.nyc.gov/wp-content/uploads/2023/04/claims_cover-24-300x387.jpg" class="img-fluid" alt="Annual Claims Report"/> </div>
+                        <small class="text-muted d-block">Apr 16, 2024</small> Annual Claims Report </a> </li>
+                                                                  <li class="col-lg-2 p-3 pt-4 "> <a href="https://comptroller.nyc.gov/reports/annual-comprehensive-financial-reports/" class="text-decoration-none">
+                        <div class="img-thumbnail mb-2 overflow-hidden"> <img src="https://comptroller.nyc.gov/wp-content/uploads/2024/10/acfr2024-300x389.jpg" class="img-fluid" alt="Annual Comprehensive Financial Reports (ACFR)"/> </div>
+                        <small class="text-muted d-block">Oct 31, 2024</small> Annual Comprehensive Financial Reports (ACFR) </a> </li>
+                                                                  <li class="col-lg-2 p-3 pt-4 "> <a href="https://comptroller.nyc.gov/reports/annual-contracts-report/" class="text-decoration-none">
+                        <div class="img-thumbnail mb-2 overflow-hidden"> <img src="https://comptroller.nyc.gov/wp-content/uploads/2024/01/contracts_report_cover-300x386.png" class="img-fluid" alt="Annual Summary Contracts Report for the City of New York"/> </div>
+                        <small class="text-muted d-block">Jan 30, 2024</small> Annual Summary Contracts Report for the City of New York </a> </li>
+                                                                  <li class="col-lg-2 p-3 pt-4 "> <a href="https://comptroller.nyc.gov/reports/shareholder-initiatives-postseason-report/" class="text-decoration-none">
+                        <div class="img-thumbnail mb-2 overflow-hidden"> <img src="https://comptroller.nyc.gov/wp-content/uploads/2022/12/postseason2023-300x391.jpg" class="img-fluid" alt="New York City Retirement Systems 2023 Shareowner Initiatives"/> </div>
+                        <small class="text-muted d-block">Dec 27, 2023</small> New York City Retirement Systems 2023 Shareowner Initiatives </a> </li>
+                                                                  <li class="col-lg-2 p-3 pt-4 "> <a href="https://comptroller.nyc.gov/reports/popular-annual-financial-reports/" class="text-decoration-none">
+                        <div class="img-thumbnail mb-2 overflow-hidden"> <img src="https://comptroller.nyc.gov/wp-content/uploads/2023/12/pafr2024-300x387.jpg" class="img-fluid" alt="Popular Annual Financial Report (PAFR)"/> </div>
+                        <small class="text-muted d-block">Nov 26, 2024</small> Popular Annual Financial Report (PAFR) </a> </li>
+                                                                  <li class="col-lg-2 p-3 pt-4 "> <a href="https://comptroller.nyc.gov/reports/annual-audit-report/" class="text-decoration-none">
+                        <div class="img-thumbnail mb-2 overflow-hidden"> <img src="https://comptroller.nyc.gov/wp-content/uploads/2024/02/audit_report_cover-300x391.jpg" class="img-fluid" alt="Report to the Mayor and City Council on City Comptroller Audit Operations"/> </div>
+                        <small class="text-muted d-block">Feb 2, 2024</small> Report to the Mayor and City Council on City Comptroller... </a> </li>
+                                          </ul>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li class="nav-item dropdown d-none d-lg-block"> <a class="nav-link dropdown-toggle displayFont" href="https://comptroller.nyc.gov/newsroom/" id="newsroomDropdown" role="button" aria-expanded="false">Newsroom</a>
+              <div class="dropdown-menu shadow py-0" aria-labelledby="newsroomDropdown">
+                <div class="row g-0">
+                  <div class="col-lg-8 border-end"> <a class="h4 m-0 fs-5 text-decoration-none d-block p-3 pb-0" href="/newsroom/press-releases/">Press Releases & Statements</a>
+                    <div class="row g-0">
+                                            <ul class="col-lg-6 list-unstyled">
+                                                <li class="m-3"> <a href="https://comptroller.nyc.gov/newsroom/statement-from-nyc-comptroller-lander-celebrating-court-of-appeals-ruling-on-lawsuit-challenging-fossil-fuel-divestment-by-new-york-city-pension-funds/" class="d-block text-decoration-none"> Statement from NYC Comptroller Lander Celebrating Court of Appeals’ Ruling on Lawsuit... </a> <small>Oct 21, 2025</small> </li>
+                                                <li class="m-3"> <a href="https://comptroller.nyc.gov/newsroom/comptroller-lander-announces-departure-of-chief-investment-officer-and-deputy-comptroller-for-asset-management-steven-meier/" class="d-block text-decoration-none"> Comptroller Lander Announces Departure of Chief Investment Officer and Deputy Comptroller for... </a> <small>Oct 20, 2025</small> </li>
+                                                <li class="m-3"> <a href="https://comptroller.nyc.gov/newsroom/investors-call-on-starbucks-to-restart-negotiations-with-unionized-workers/" class="d-block text-decoration-none"> Investors Call on Starbucks to Restart Negotiations with Unionized Workers </a> <small>Oct 16, 2025</small> </li>
+                        </ul><ul class="col-lg-6 list-unstyled">                        <li class="m-3"> <a href="https://comptroller.nyc.gov/newsroom/press-releases/statement-from-nyc-comptroller-lander-praising-governor-hochuls-decision-to-pause-highway-expansion-projects/" class="d-block text-decoration-none"> Statement from NYC Comptroller Lander Praising Governor Hochul’s Decision to Pause Highway Expansion... </a> <small>Oct 15, 2025</small> </li>
+                                                <li class="m-3"> <a href="https://comptroller.nyc.gov/newsroom/comptroller-brad-lander-and-congressman-dan-goldman-issue-interjurisdictional-oversight-inquiry-to-secretary-noem-over-reinstatement-of-violence-ice-officer/" class="d-block text-decoration-none"> Comptroller Brad Lander and Congressman Dan Goldman Issue Interjurisdictional Oversight Inquiry to... </a> <small>Oct 3, 2025</small> </li>
+                                                <li class="m-3"> <a href="https://comptroller.nyc.gov/newsroom/comptroller-lander-condemns-d-c-republicans-for-federal-government-shutdown/" class="d-block text-decoration-none"> Comptroller Lander Condemns D.C. Republicans for Federal Government Shutdown </a> <small>Oct 1, 2025</small> </li>
+                        </ul><ul class="col-lg-6 list-unstyled">                      </ul>
+                                          </div>
+                  </div>
+					  <div class="col-lg-4">
+						<ul id="menu-newsroom-menu" class="list-unstyled">
+						  <li class="border-bottom"><a class="h4 m-0 fs-5 text-decoration-none d-block p-3" href="https://comptroller.nyc.gov/newsroom/testimonies/">Testimonies</a></li>
+						  <li class="border-bottom"><a class="h4 m-0 fs-5 text-decoration-none d-block p-3" href="https://comptroller.nyc.gov/newsroom/newsletter/">Newsletters</a></li>
+						  <li class="border-bottom"><a class="h4 m-0 fs-5 text-decoration-none d-block p-3" href="https://comptroller.nyc.gov/newsroom/videos/">Videos</a></li>
+						  <li class="border-bottom"><a class="h4 m-0 fs-5 text-decoration-none d-block p-3" href="https://comptroller.nyc.gov/events/">Events</a></li>
+						  <li class="border-bottom"><a class="h4 m-0 fs-5 text-decoration-none d-block p-3" href="https://comptroller.nyc.gov/tweets/">Tweets</a></li>
+						  <li><a class="h4 m-0 fs-5 text-decoration-none d-block p-3" href="https://comptroller.nyc.gov/comptrollerpresskit/">Press Kit</a></li>
+						</ul>
+					  </div>
+					</div>
+				  </div>
+				</li>
+				<li class="nav-item d-lg-none border-bottom"><a class="nav-link displayFont px-4" href="https://comptroller.nyc.gov/about/">About</a></li>
+				<li class="nav-item d-lg-none border-bottom"><a class="nav-link displayFont px-4" href="https://comptroller.nyc.gov/services/">Services</a></li>
+				<li class="nav-item d-lg-none border-bottom"><a class="nav-link displayFont px-4" href="https://comptroller.nyc.gov/reports/">Reports</a></li>
+				<li class="nav-item d-lg-none border-bottom"><a class="nav-link displayFont px-4" href="https://comptroller.nyc.gov/newsroom/">Newsroom</a></li>
+				<li class="nav-item"><a class="nav-link displayFont px-4" href="https://comptroller.nyc.gov/jobs/">Employment</a></li>
+				<li class="nav-item d-lg-none border-top"><a class="nav-link displayFont px-4" href="https://comptroller.nyc.gov/join-mailing-list/">Newsletter</a></li>
+				<li id="searchLi" class="searchTab nav-item p-4 py-3 p-lg-0" tabindex="-1">
+				  <div class="searchbox">
+	<script async src="https://cse.google.com/cse.js?cx=006328876900201118120:zhn5e3dpj7s"></script>
+	<div class="gcse-searchbox-only" data-resultsUrl="https://comptroller.nyc.gov/site-search/"></div>
+	<span class="searchbox-icon">
+		<svg width="13" height="13" viewBox="0 0 13 13"><title>search</title><path d="m4.8495 7.8226c0.82666 0 1.5262-0.29146 2.0985-0.87438 0.57232-0.58292 0.86378-1.2877 0.87438-2.1144 0.010599-0.82666-0.28086-1.5262-0.87438-2.0985-0.59352-0.57232-1.293-0.86378-2.0985-0.87438-0.8055-0.010599-1.5103 0.28086-2.1144 0.87438-0.60414 0.59352-0.8956 1.293-0.87438 2.0985 0.021197 0.8055 0.31266 1.5103 0.87438 2.1144 0.56172 0.60414 1.2665 0.8956 2.1144 0.87438zm4.4695 0.2115 3.681 3.6819-1.259 1.284-3.6817-3.7 0.0019784-0.69479-0.090043-0.098846c-0.87973 0.76087-1.92 1.1413-3.1207 1.1413-1.3553 0-2.5025-0.46363-3.4417-1.3909s-1.4088-2.0686-1.4088-3.4239c0-1.3553 0.4696-2.4966 1.4088-3.4239 0.9392-0.92727 2.0864-1.3969 3.4417-1.4088 1.3553-0.011889 2.4906 0.45771 3.406 1.4088 0.9154 0.95107 1.379 2.0924 1.3909 3.4239 0 1.2126-0.38043 2.2588-1.1413 3.1385l0.098834 0.090049z"></path></svg>
+	</span>
+	
+	<div id="searchSuggestions" class="card mt-1">
+		<div class="card-header">
+			<h5 class="m-0 blue-800-text">Top Searches</h5>
+		</div>
+		<div class="card-body">
+            <ul id="menu-search-menu" class="row list-unstyled">
+                <li id="menu-item-85477" class="bullet_archive col-md-6 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-85477"><a href="#" tabindex="-1">A-M</a>
+                    <ul class="sub-menu" tabindex="-1">
+                        <li id="menu-item-89393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89393">
+                            <a tabindex="-1" href="https://comptroller.nyc.gov/services/for-the-public/certificate-of-residence/" >Certificate of <strong>Residence</strong></a>
+                        </li>
+                        <li id="menu-item-89409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89409">
+                            <a tabindex="-1" href="https://comptroller.nyc.gov/about/contact-our-office/"><strong>Contact</strong> Our Office</a>
+                        </li>
+                        <li id="menu-item-85499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85499">
+                            <a tabindex="-1" href="https://comptroller.nyc.gov/services/for-city-agencies/comptrollers-directives-and-memoranda/"><strong>Directives</strong> and Memoranda</a>
+                        </li>
+                        <li id="menu-item-85509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85509">
+                            <a tabindex="-1" href="https://comptroller.nyc.gov/jobs/apply/"><strong>Employment</strong> Opportunities</a>
+                        </li>
+                        <li id="menu-item-85491" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85491">
+                            <a tabindex="-1" href="https://comptroller.nyc.gov/services/for-the-public/claims/">File a <strong>Claim</strong></a>
+                        </li>
+                        <li id="menu-item-89410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89410">
+                            <a tabindex="-1" href="https://comptroller.nyc.gov/services/for-the-public/freedom-of-information-law-foil-requests/">Freedom Of Information Law (<strong>FOIL</strong>) Requests</a></li>
+                        <li id="menu-item-89719" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89719">
+                            <a tabindex="-1" href="/jobs/apply/"><strong>Jobs</strong></a>
+                        </li>
+                        <li id="menu-item-117703" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117703">
+                            <a tabindex="-1" href="https://comptroller.nyc.gov/services/financial-matters/nyc-bonds/">Municipal <strong>Bonds</strong></a>
+                        </li>
+                    </ul>
+                </li>
+                <li id="menu-item-85508" class="bullet_archive col-md-6 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-85508"><a tabindex="-1" href="#">N-Z</a>
+                    <ul class="sub-menu">
+                        <li id="menu-item-89718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89718">
+                            <a tabindex="-1" href="https://comptroller.nyc.gov/services/for-the-public/claims/">Notice of <strong>Claim</strong></a>
+                        </li>
+                        <li id="menu-item-117705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117705">
+                            <a tabindex="-1" href="https://comptroller.nyc.gov/services/financial-matters/nyc-bonds/">NYC <strong>Bonds</strong></a>
+                        </li>
+                        <li id="menu-item-85516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85516">
+                            <a tabindex="-1" href="https://comptroller.nyc.gov/services/for-the-public/nyc-wage-standards/wage-schedules/"><strong>Prevailing Wage</strong></a>
+                        </li>
+                        <li id="menu-item-117707" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117707">
+                            <a tabindex="-1" href="https://comptroller.nyc.gov/services/financial-matters/nyc-bonds/">Tax-exempt <strong>Bonds</strong></a>
+                        </li>
+                        <li id="menu-item-89411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89411">
+                            <a tabindex="-1"href="https://comptroller.nyc.gov/services/for-the-public/nyc-wage-standards/unclaimed-nyc-wage-wage-awards/"><strong>Unclaimed</strong> Prevailing Wage</a>
+                        </li>
+                        <li id="menu-item-85479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85479">
+                            <a tabindex="-1" href="https://comptroller.nyc.gov/services/for-businesses/nyc-comptrollers-office-vendor-forms-w9-and-w8/">Vendor Forms <strong>W-9</strong> and <strong>W-8</strong>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+		</div>
+	</div>
+</div>				</li>
+			  </ul>
+			</div>
+		  </div>
+		</nav>
+	  </div>
+	</header>
+	<div class="breadcrumbs container mb-5 fs-7" typeof="BreadcrumbList" vocab="http://schema.org/" role="navigation" aria-label="BreadcrumbList">
+	  <!-- Breadcrumb NavXT 7.4.1 -->
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Reports." href="https://comptroller.nyc.gov/reports/" class="archive post-report-archive"><span property="name">Reports</span></a><meta property="position" content="1"></span> / <span property="itemListElement" typeof="ListItem"><span property="name">Letter to Dr. Mitchell Katz regarding H+H spending on agency and travel nurses</span><meta property="position" content="2"></span>	</div>
+		
+
+
+	
+<main id="content" class="pageWrapper">
+	<div class="container">
+		<section>
+							<article id="post-391867" class="post-391867 report type-report status-publish has-post-thumbnail hentry tag-labor type-letters agency-health-and-hospitals-corporation">        
+					<div class="row">
+						<div class="col-md-10 pe-md-5">
+							<div id="report-tags" class="mb-4">
+	<a class="btn btn-primary btn-sm me-1 mb-1" href="/reports/?fwp_type=letters">Letters</a><a class="btn btn-primary btn-sm me-1 mb-1" href="/reports/?fwp_agency=health-and-hospitals-corporation">Health And Hospitals Corporation</a></div>							
+							<h1>Letter to Dr. Mitchell Katz regarding H+H spending on agency and travel nurses</h1>
+							
+														
+							<div class="entry_content">	
+								<div class="bottom_divider">
+																			June 6, 2023									
+																	</div>
+								
+								<div class="d-block d-md-none mb-4 pb-4 border-bottom border-5 TOC_panel">
+									<p class="sidebarHeader">Table of Contents</p>
+									<ul class="nav d-block TOC_list bullet_archive"></ul>
+								</div>
+							
+								<p>Dear Dr. Katz:</p>
+<p>Thank you for your steadfast leadership of NYC Health + Hospitals (H+H), New York City’s flagship safety net health service in recent years, shepherding it through a fiscal crisis, the Covid-19 pandemic, and the ongoing challenges H+H has assisted mightily with during the city’s current all-hands effort to provide shelter and services to asylum-seekers.</p>
+<p>I am writing to share my concern and request more detailed information regarding elevated spending on agency and traveling nurses by H+H, especially in light of the ongoing challenge of hiring and retaining permanent nurses, while the pay gap between nurses at H+H and those at private hospitals continues to grow. The challenges of retaining permanent nurses and the growing spending on higher-cost agency and traveling nurses pose risks to H+H’s financial stability and undermine the City’s commitments to both its public sector employees and its patients.</p>
+<p>You testified to the City Council on May 16 that H+H spent $549 million during Calendar Year 2022 on approximately 2,000 agency and travel nurses because of the persisting effects of the Covid-19 pandemic, which contributed to the projected $118 million operating deficit through March. Operating certain critical units, including emergency departments and intensive care units, with agency and travel nurses introduces further vulnerabilities to the continuity and standards of care set by H+H.</p>
+<p>At the same time, the challenge of hiring and retaining permanent nurses, with the benefits of stability, training, and commitment that they bring, is increased by the growing pay gap between nurses at H+H and those at private hospitals in New York City. Recently, private hospitals including New York Presbyterian, Montefiore, and Mt. Sinai – who already paid their nurses significantly more than H+H does – agreed to a new contract that included raises of 7%, 6%, and 5% in the coming years.</p>
+<p>To better understand these challenges, I request that you provide my office with:</p>
+<ul>
+<li>A year-over-year breakdown of H+H expenditures for agency and travel nurses from FY19 to present, including the average hourly rate and number of nurses;</li>
+<li>A year-over-year breakdown of H+H nursing headcount for FY19-FY23 and projected headcount for FY 24 – FY27;</li>
+<li>Projected agency and travel nurse expenditures FY23-FY27;</li>
+<li>Copies of any H+H procurements, contracts or solicitations for agency and travel nursing that apply to FY 2023 and beyond, documents indicating how pricing is determined, and written methodologies for assessing vendor integrity as well as any resulting findings or reports;</li>
+<li>Copies of any recruitment or retention plans maintained by H+H to boost its permanent nursing headcount, including any analysis of the impact of recent pay increases at private hospitals in New York City on hiring and retention;</li>
+<li>Any evaluations of the financial impacts of increased wages for permanent nurses on the headcount and expenditures for agency and travel nurses as well as the finances of the Corporation.</li>
+</ul>
+<p>Your comments at the May 16 Council hearing indicate an understanding of the importance of resolving these wage and retention issues, the dependency on travel nurses to the solvency of H+H, and the health and welfare of New Yorkers and the professionals who care for them. H+H decreasing its reliance and spending on agency and travel nurse companies will enable the Corporation to increase pay for permanent nurses, leading to improved hiring and retention, promoting a virtuous cycle that is good for patients and for the stability of our essential public health system.</p>
+<p>Thank you for your leadership, your partnership, and your consideration of this request.</p>
+<p>Sincerely,<br />
+Brad Lander<br />
+New York City Comptroller</p>
+								
+							</div>
+						</div>
+					
+						<aside class="sidebar col-md-2">
+							
+							
+															<div class="sidebarPanel">
+									<p class="sidebarHeader">Download The Report</p>
+									<a target="_blank" href="https://comptroller.nyc.gov/wp-content/uploads/documents/230601_Mitchell-Katz_HH-Spending-on-Agency-Nurses.pdf" title="Letter to Dr. Mitchell Katz regarding H+H spending on agency and travel nurses">
+										<img src="https://comptroller.nyc.gov/wp-content/uploads/2023/06/Letter-2-300x391.png" class="img-thumbnail mb-2 wp-post-image" alt="Letter on H+H spending on agency nurses" title="Letter to Dr. Mitchell Katz regarding H+H spending on agency and travel nurses" decoding="async" fetchpriority="high" srcset="https://comptroller.nyc.gov/wp-content/uploads/2023/06/Letter-2-300x391.png 300w, https://comptroller.nyc.gov/wp-content/uploads/2023/06/Letter-2-120x156.png 120w, https://comptroller.nyc.gov/wp-content/uploads/2023/06/Letter-2.png 613w" sizes="(max-width: 230px) 100vw, 230px" />										<span class="d-block d-md-none">Letter to Dr. Mitchell Katz regarding H+H spending on agency and travel nurses</span> 
+									</a> 
+								</div>
+								
+														
+								
+							
+							<div class="sidebarPanel TOC_panel" id="TOCPanel">
+	<p class="sidebarHeader">Table of Contents</p>
+	<nav id="navbar_scrollspy" class="navbar p-0"><ul class="nav d-block TOC_list bullet_archive"></ul></nav>
+</div>
+
+<script type="text/javascript">
+(function ($) {
+	$(document).ready(function () {
+		tableOfContents(".TOC_list");                                                  
+		function tableOfContents(tocList) {                                                                            
+			$(tocList).empty();
+			var prevH2Item = null;
+			var prevH2List = null;
+			var index = 0;
+			$(".entry_content h2").each(function() {
+				var anchor = $(this).attr('id');
+				var li     = "<li class='nav-item d-block'><a class='nav-link p-0 blue-700-text' href='#" +anchor+ "'>" + $(this).text() + "</a></li>";
+				prevH2Item = $(li);
+				prevH2Item.append(prevH2List);
+				prevH2Item.appendTo(tocList);
+				index++;
+			});
+		}     
+		var scrollSpy = new bootstrap.ScrollSpy(document.body, {target: '#navbar_scrollspy'	})
+		
+		if($('.entry_content h2').length == 0) {
+			$('.TOC_panel').remove();
+		}
+	});
+})(jQuery);
+</script>
+
+														
+							
+							
+							
+						</aside>
+
+					</div>
+				</article>
+			
+					</section>
+	</div>
+</main>
+
+<style>
+
+ 
+.jumbotron:after {
+	background: radial-gradient(circle, rgba(0,0,0,.5) 0%, rgba(,.8) 100%);
+}
+
+.jumbotron h1 span, .jumbotron h2 span {
+    background: rgba(,1);
+    box-shadow: .5rem 0 rgba(,1), -.5rem 0 rgba(,1);
+    display: inline;
+    padding: 0;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+}
+</style>
+
+<div class="d-none">
+</div>
+
+<script type="text/javascript">
+google.charts.load('current', {'packages': ['table', 'corechart', 'controls']});
+(function ($) {
+	$(document).ready(function () {	
+				
+		function drawAllCharts() {
+					}
+		
+		var windowWidth = $(window).width();
+		window.addEventListener('resize', function(event){
+			if ($(window).width() != windowWidth) {
+				windowWidth = $(window).width();
+				drawAllCharts();
+			}
+		});
+		
+		$('button[data-bs-toggle="tab"]').on('shown.bs.tab', function (e) {
+			drawAllCharts();
+		});
+		
+		drawAllCharts();
+	});
+})(jQuery);
+</script>				<button type="button" class="cd-top orange-text btn btn-link shadow" title="Back to Top"><i class="icofont-circled-up icofont-2x"></i></button>
+				
+				<div class="footer bg-blue-800 text-white pt-5 mt-5" role="contentinfo">
+					<div class="container">
+						<div class="row row-cols-2 row-cols-md-4">
+							<div class="col">
+								<div class="h5 border-bottom border-light pb-2">The Office</div>
+								<p>
+									One Centre Street<br>
+									New York, NY 10007<br>
+									(212) 669-3916
+								</p>
+								<p>
+									<strong>Suspect Wasteful Spending?</strong><br>
+									Call (212) NO-WASTE
+								</p>
+							</div>
+								
+							<div class="col">
+								<div class="h5 border-bottom border-light pb-2">Navigate</div>
+								<ul class="list-unstyled">					
+									<li><a href="/about/">About</a></li>
+									<li><a href="/services/">Services</a></li>
+									<li><a href="/reports/">Reports</a></li>
+									<li><a href="/newsroom/">Newsroom</a></li>
+									<li><a href="/jobs/">Employment</a></li>
+									<li><a href="/about/contact-our-office/">Contact Us</a></li>
+								</ul>
+							</div>
+								
+					<div class="col">
+				<div class="h5 border-bottom border-light pb-2">Follow Us</div>
+			 <ul class="list-unstyled list-inline social-links">
+											<li class="list-inline-item">
+							<a href="https://bsky.app/profile/nyccomptroller.bsky.social" rel="noopener" target="_blank" title="Bsky">
+								<i class="fa-brands fa-square-bluesky fa-xl"></i>
+							</a>
+						</li>
+										
+					 						<li class="list-inline-item">
+							<a href="https://www.facebook.com/ComptrollerNYC" rel="noopener" target="_blank" title="Facebook">
+								<i class="fa-brands fa-square-facebook fa-xl"></i>
+							</a>
+						</li>
+										
+					  						<li class="list-inline-item">
+							<a href="https://twitter.com/NYCComptroller" rel="noopener" target="_blank" title="X">
+								<i class="fa-brands fa-square-x-twitter fa-xl"></i>
+							</a>
+						</li>
+					
+				 						<li class="list-inline-item">
+							<a href="https://www.instagram.com/NYCComptroller/" rel="noopener" target="_blank" title="Instagram">
+								<i class="fa-brands fa-square-instagram fa-xl"></i>
+							</a>
+						</li>
+										
+					 						<li class="list-inline-item">
+							<a href="https://www.youtube.com/c/nyccomptroller" rel="noopener" target="_blank" title="YouTube">
+								<i class="fa-brands fa-square-youtube fa-xl"></i>
+							</a>
+						</li>
+					
+											<li class="list-inline-item">
+							<a href="https://www.threads.net/@nyccomptroller" rel="noopener" target="_blank" title="threads">
+								<i class="fa-brands fa-square-threads fa-xl"></i>
+							</a>
+						</li>
+										
+											<li class="list-inline-item">
+							<a href="https://www.flickr.com/photos/nyccomptroller/" rel="noopener" target="_blank" title="Flickr">
+								<i class="fa-brands fa-flickr fa-xl"></i>
+							</a>
+						</li>
+										
+					  						<li class="list-inline-item">
+							<a href="https://www.linkedin.com/company/nyccomptroller" rel="noopener" target="_blank" title="LinkedIn">
+								<i class="fa-brands fa-linkedin fa-xl"></i>
+							</a>
+						</li>
+										</ul>
+				</div>
+
+					
+					<div class="col">
+						<div class="h5 border-bottom border-light pb-2">Join Mailing List</div>
+						<p>Get the latest news in your inbox.</p>
+						<!--button data-bs-toggle="modal" data-bs-target="#newsletters" class="btn btn-primary">Sign Up</button-->
+						<a href="/newsletters" class="btn btn-primary">Sign Up</a>
+					</div>		
+				</div>
+			</div>
+				
+			<div id="legalLine" class="semi-opacity-light text-center p-2 mt-3 fs-7">
+				<ul class="list-inline m-0">
+					<li class="list-inline-item mx-2">&copy; 2025 Copyright, Office of the New York City Comptroller</li>
+					<li class="list-inline-item mx-2"><a href="/sitemap/">Sitemap</a></li>
+					<li class="list-inline-item mx-2"><a href="/disclaimer/">Disclaimer</a></li>
+					<li class="list-inline-item mx-2"><a href="/privacy-policy/">Privacy Policy</a></li>
+					<li class="list-inline-item mx-2"><a href="/language-disclaimer/">Language Disclaimer</a></li>
+					<li class="list-inline-item mx-2"><button type="button" class="btn btn-link text-white fs-7" data-bs-toggle="modal" data-bs-target="#textSize">Text Size</button></li>
+					<li class="list-inline-item mx-2"><a href="/accessibility/">Accessibility</a></li>
+				</ul>
+			</div>
+		</div>
+		
+		<div id="textSize" class="modal fade" role="dialog" aria-labelledby="textSizeModal" tabindex="-1" aria-hidden="true">
+			<div class="modal-dialog modal-lg" role="document">
+				<div class="modal-content">
+					<div class="modal-header"> 
+						<h5 class="modal-title">Text Size</h5>
+						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+					</div>
+					<div class="modal-body">
+						<p>To change the text size you can use your web browser's settings. Most browsers include functionality to let you increase or decrease the text on a web page. For example, to increase text size using:</p>
+						<ul>
+							<li><strong>Chrome</strong> In the menu to the right of the address bar, select and set Zoom level. Menu &gt; Zoom &gt; +</li>
+							<li><strong>Firefox</strong> In the menu to the right of the address bar, select and set Zoom level. Menu &gt; Zoom &gt; +</li>
+							<li><strong>Safari</strong> In the View menu, select Zoom In. View &gt; Zoom In. Macintosh Shortcut: Command+</li>
+							<li><strong>Microsoft Edge</strong> In the menu to the right of the address bar, select and set Zoom level. Menu &gt; Zoom &gt; +</li>
+						</ul>
+						<em>No Web Browser Endorsement. Common browsers are included in this page; mention of a specific browser does not imply endorsement or recommendation.</em>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	
+	
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/comptroller_theme_2021\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" src="https://comptroller.nyc.gov/wp-content/themes/comptroller_theme_2021/js/scripts.js?ver=1729255764" id="main_script-js"></script>
+<script type="text/javascript" id="gt_widget_script_20030115-js-before">
+/* <![CDATA[ */
+window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['20030115'] = {"default_language":"en","languages":["en","es","zh-CN","zh-TW","ru","ko","it","ht","af","sq","am","ar","hy","az","eu","be","bn","bs","bg","ca","ceb","ny","co","hr","cs","da","nl","eo","et","tl","fi","fr","fy","gl","ka","de","el","gu","ha","haw","iw","hi","hmn","hu","is","ig","id","ga","ja","jw","kn","kk","km","ku","ky","lo","la","lv","lt","lb","mk","mg","ms","ml","mt","mi","mr","mn","my","ne","no","ps","fa","pl","pt","pa","ro","sm","gd","sr","st","sn","sd","si","sk","sl","so","su","sw","sv","tg","ta","te","th","tr","uk","ur","uz","vi","cy","xh","yi","yo","zu"],"url_structure":"none","native_language_names":1,"wrapper_selector":"#gt-wrapper-20030115","select_language_label":"Select Language","custom_css":".gt_selector.notranslate{\r\n    border-radius: 4px !important;\r\ncolor:#fff;\r\nbackground: transparent;\r\n}\r\n.gt_selector.notranslate *{\r\n    color: #000;\r\nbackground: #fff;\r\n}","horizontal_position":"inline","flags_location":"\/wp-content\/plugins\/gtranslate\/flags\/"};
+/* ]]> */
+</script><script src="https://comptroller.nyc.gov/wp-content/plugins/gtranslate/js/dropdown.js?ver=6.8.3" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/reports/letter-to-dr-mitchell-katz-regarding-hh-spending-on-agency-and-travel-nurses/" data-gt-orig-domain="comptroller.nyc.gov" data-gt-widget-id="20030115" defer></script>		
+		<div id="BAM_latest" class="d-none">
+			<div id="BAM_total">$301.74 billion</div>
+			<div id="BAM_month">Aug</div>
+			<div id="BAM_year">2025</div>
+		</div>
+
+		<div class="modal" id="newsletters">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="card-header modal-header pb-2">
+				<ul class="nav nav-tabs card-header-tabs" id="myTab" role="tablist">
+					<li class="displayFont nav-itemactive" role="presentation">
+						<button class="px-2 fs-7 nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#comptroller_newsletter" type="button" role="tab" aria-controls="home" aria-selected="true"><span class="d-none d-lg-inline ">Comptroller's </span>Mailing List</button>
+					</li>
+					<li class="displayFont nav-item " role="presentation">
+						<button class="px-2 fs-7 nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#investor_relations" type="button" role="tab" aria-controls="profile" aria-selected="false">Investor Relations<span class="d-none d-lg-inline "> Mailing List</span></button>
+					</li>
+				</ul>
+				<button type="button" class="btn-close " data-bs-dismiss="modal" aria-label="Close"></button>
+			</div>
+			
+			<div class="modal-body">			
+				<div class="tab-content">
+					<div class="tab-pane active" id="comptroller_newsletter">
+						<div class="my-4 text-center">
+							<h2>Comptroller's Mailing List</h2>
+							<p>Receive important news and analysis from the Comptroller's Office on major issues affecting New York City.</p>
+							<small><span class="asterisk text-danger">*</span> indicates required</small>
+						</div>
+						
+						<div id="mc_embed_signup">
+							<form action="//nyc.us13.list-manage.com/subscribe/post?u=bf606302e0aec6b092c87b850&amp;id=775e9e8317" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+								<div id="mce-responses">
+									<div class="response alert alert-danger" id="mce-error-response" style="display:none" role="alert"></div>
+									<div class="response alert alert-success" id="mce-success-response" style="display:none" role="alert"></div>
+								</div>
+								
+								<div id="mc_embed_signup_scroll" class="card lightbgcolor">
+									<div class="card-body">
+										<div class="mc-field-group mb-4">
+											<label for="mce-EMAIL" class="form-label fw-bold">Email Address <span class="asterisk text-danger">*</span></label>
+											<input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL">
+										</div>
+								
+										<div class="mc-field-group mb-4">
+											<p class="fw-bold mb-1">Subscriptions</p>
+											<div class="form-check mb-3">
+												<input class="form-check-input" type="checkbox" value="32" name="group[8653][32]" id="mce-group[8653]-8653-0">
+												<label class="form-check-label" for="mce-group[8653]-8653-0">Comptroller's Office Updates <small class="text-muted">(1-2 emails/week)</small></label>
+											</div>
+											<div class="form-check mb-3">
+												<input class="form-check-input" type="checkbox" value="17179869184" name="group[8653][17179869184]" id="mce-group[8653]-8653-1">
+												<label class="form-check-label" for="mce-group[8653]-8653-1">Monthly Economic and Fiscal Outlook <small class="text-muted">(1 email/month)</small></label>
+											</div>
+										</div>
+										
+										<small>Note: To unsubscribe from a mailing list, please follow the instructions in the footer of the email you've received.</small>
+
+										<div style="position: absolute; left: -5000px;" aria-hidden="true">
+											<label for="email" class="visually-hidden">Email: </label>
+											<input id="email" type="text" name="b_bf606302e0aec6b092c87b850_b9cc1af032" tabindex="-1" value="">
+										</div>
+									</div>
+									
+									<div class="text-center card-footer p-3">
+										<button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary">Subscribe</button>
+									</div>
+								</div>
+							</form>
+						</div>
+
+						<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+						<script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+					</div>
+					
+					<div class="tab-pane " id="investor_relations">
+						<div class="my-4 text-center">
+							<h2>Investor Relations Mailing List</h2>
+							<p>Receive investor-related news and financial reports.</p>
+							<small><span class="asterisk text-danger">*</span> indicates required</small>
+						</div>
+						
+						<div id="mc_embed_signup_bonds" class="card lightbgcolor">
+							<form action="//nyc.us2.list-manage.com/subscribe/post?u=ff63ddae2b4989eea262797c6&amp;id=a9a3e1e66a" method="post" id="mc-embedded-subscribe-form-bonds" name="mc-embedded-subscribe-form-bonds" class="validate" target="_blank" novalidate>
+								<div id="mce-responses-bonds">
+									<div class="response alert alert-danger" id="mce-error-response-bonds" style="display:none" role="alert"></div>
+									<div class="response alert alert-success" id="mce-success-response-bonds" style="display:none" role="alert"></div>
+								</div>
+								<div id="mc_embed_signup_scroll-bonds">
+									<div class="card-body">
+										<div class="mc-field-group mb-4">
+											<label for="bonds-mce-EMAIL" class="form-label fw-bold">Email Address <span class="asterisk text-danger">*</span></label>
+											<input type="email" value="" name="EMAIL" class="required email form-control" id="bonds-mce-EMAIL">
+										</div>
+										
+										<div class="mc-field-group mb-4">
+											<p class="fw-bold mb-1">Subscriptions</p>
+											<div class="form-check mb-3">
+												<input class="form-check-input" type="checkbox" value="1" name="group[2557][1]" id="mce-group[2557]-2557-0">
+												<label class="form-check-label" for="mce-group[2557]-2557-0">Bonds Quarterly Wrap Up <small class="text-muted">(4 emails/year)</small></label>
+											</div>
+											
+											<div class="form-check mb-3">
+												<input class="form-check-input" type="checkbox" value="2" name="group[2557][2]" id="mce-group[2557]-2557-1">
+												<label class="form-check-label" for="mce-group[2557]-2557-1">Bond Sale Notification <small class="text-muted">(~12 emails/year)</small></label>
+											</div>
+											
+											<div class="form-check mb-3">
+												<input class="form-check-input" type="checkbox" value="16" name="group[2557][16]" id="mce-group[2557]-2557-2">
+												<label class="form-check-label" for="mce-group[2557]-2557-2">Comptroller's Budget Reports <small class="text-muted">(~6 emails/year)</small></label>
+											</div>
+											
+											<div class="form-check mb-3">
+												<input class="form-check-input" type="checkbox" value="4" name="group[2557][4]" id="mce-group[2557]-2557-3">
+												<label class="form-check-label" for="mce-group[2557]-2557-3">Comptroller's Cash Reports <small class="text-muted">(4 emails/year)</small></label>
+											</div>
+											
+											<div class="form-check mb-3">
+												<input class="form-check-input" type="checkbox" value="8" name="group[2557][8]" id="mce-group[2557]-2557-4">
+												<label class="form-check-label" for="mce-group[2557]-2557-4">Annual Comprehensive Financial Report <small class="text-muted">(1 email/year)</small></label>
+											</div>
+										</div>
+										
+										<small>Note: To unsubscribe from a mailing list, please follow the instructions in the footer of the email you've received.</small>
+
+										<div style="position: absolute; left: -5000px;" aria-hidden="true">
+											<label for="bonds-email" class="visually-hidden">Email: </label>
+											<input id="bonds-email" type="text" name="b_ff63ddae2b4989eea262797c6_a9a3e1e66a" tabindex="-1" value="">
+										</div>
+										
+									</div>
+									
+									<div class="text-center card-footer p-3">
+										<button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe-bonds" class="btn btn-primary">Subscribe</button>
+									</div>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>		
+	<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=60922074" async></script></body>
+	</html>
