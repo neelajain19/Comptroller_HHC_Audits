@@ -6,7 +6,8 @@ As part of my investigative health class, I am looking into a troubling pattern 
 
 ## Scrape Process:
 
-I identified several [NYC Health & Hospital audit reports](https://comptroller.nyc.gov/reports/?fwp_agency=health-and-hospitals-corporation) completed by the New York City Comptroller’s Office and scraped the PDFs as part of Assignment 1.
+I identified several [NYC Health & Hospital audit reports](https://comptroller.nyc.gov/reports/?fwp_agency=health-and-hospitals-corporation) completed by the New York City Comptroller’s Office and 
+[scraped](https://github.com/neelajain19/Comptroller_HHC_Audits/blob/21c3732478f6c58d154cb7e5bf570c2cd5de393d/01%20-%20Scraping.ipynb) the PDFs.
 
 ## Text Analysis Process:
 
