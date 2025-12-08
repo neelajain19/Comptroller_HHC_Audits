@@ -28,7 +28,7 @@ Anthony Rajkumar
 William Brown 
 Svetlana Lipyanskaya 
 
-I saved the results dataframe to a CSV file.  I then converted the CSV file to an Excel fule and also added a tab with the pivot table that I mention below.
+I saved the results dataframe to a CSV file.  I then converted the CSV file to an Excel file and also added a tab with the pivot table that I mention below.
 
 ## Text Analysis Findings:  
 
