@@ -12,7 +12,7 @@ I identified several [NYC Health & Hospital audit reports](https://comptroller.n
 
 ## Text Analysis Process:
 
-I used Python to look for the following keywords in the audit reports to determine if HHC has a history of improper billing practices particularly related to Medicaid:
+I used Python to [identify](https://github.com/neelajain19/Comptroller_HHC_Audits/blob/9c3d0fd6d412bc07366b4b4cc60dbfb60c605b2d/02%20-%20Text%20Analysis.ipynb) the following keywords in the audit reports to determine if HHC has a history of improper billing practices particularly related to Medicaid:
 
 Keywords:
 
