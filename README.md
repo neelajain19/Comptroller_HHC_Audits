@@ -28,7 +28,8 @@ Keywords:
 * William Brown (former CEO of the hospital)
 * Svetlana Lipyanskaya (former CEO of the hospital)
 
-I saved the results dataframe to a CSV file. Then I converted the CSV file to an Excel file and also added a tab with the pivot table that I mention below.
+I saved the results dataframe to a CSV file. Then I converted the CSV file to an 
+[Excel file](https://github.com/neelajain19/Comptroller_HHC_Audits/blob/05513eaec70726393d67c6ae4c654906f4e01ac0/Comptroller_Report_KW_ID_12.8.25.xlsx) and also added a tab with the pivot table that I mention below.
 
 ## Text Analysis Findings:  
 
